@@ -1,0 +1,7 @@
+	User-agent: Googlebot
+	Disallow: /nogooglebot/
+
+	User-agent: *
+	Allow: /
+
+	Sitemap: http://ftp.pamplonaswcraft.com/agency/games/pay4d/sitemap.xml
